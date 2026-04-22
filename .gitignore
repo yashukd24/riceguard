@@ -1,0 +1,11 @@
+.venv/
+backend/__pycache__/
+backend/routes/__pycache__/
+backend/utils/__pycache__/
+frontend/node_modules/
+frontend/build/
+riceguard/
+*.pyc
+*.pyo
+.DS_Store
+Thumbs.db
